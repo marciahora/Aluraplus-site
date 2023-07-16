@@ -6,7 +6,7 @@
 * Objetivo: praticar e aprender conceitos sobre as duas tecnologias no desenvolvimento web
 
 ## 📁 Acesso ao projeto
-O projeto pode ser acessado por [esse link](https://aluraplus-site-g1yhnziyf-marciahora.vercel.app/) da Vercel e também pelo [código fonte](https://github.com/marciahora/Aluraplus-site) do projeto. 
+O projeto pode ser acessado por [esse link](https://aluraplus-site-kappa.vercel.app/) da Vercel e também pelo [código fonte](https://github.com/marciahora/Aluraplus-site) do projeto. 
 
 ## Status do projeto
 Finalizado 
